@@ -1,6 +1,6 @@
 (async function checkForUpdates() {
     const currentVersion = "1.0";
-    const versionUrl = "https://raw.githubusercontent.com/ivysone/Will-you-be-my-Valentine-/main/version.json"; 
+    const versionUrl = "https://raw.githubusercontent.com/ivysone/Will-you-be-my-Birthday-gift-/main/version.json"; 
 
     try {
         const response = await fetch(versionUrl);
@@ -57,7 +57,7 @@ const messages = [
     "Are you sure?",
     "Really sure??",
     "Are you positive?",
-    "Pookie please...",
+    "Sweetie please...",
     "Just think about it!",
     "If you say no, I will be really sad...",
     "I will be very sad...",
